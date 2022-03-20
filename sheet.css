@@ -1,0 +1,32 @@
+img{
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+ }
+ .cent,.mar{
+     text-align: center;
+     background-color: grey;
+ }
+ .game:hover{
+   color:azure;
+   text-decoration: none;
+ }
+ .ull{
+ list-style-type: none;
+ position:relative;
+ height: 20px;
+ top: 20px;
+ padding-left: 200px;
+ background-color: lavender;
+}
+li a {
+ text-decoration: none;
+ color:black;
+ 
+}
+.navi{
+ background-color: lavender;
+}    
+a:hover{
+text-decoration: underline;
+}
